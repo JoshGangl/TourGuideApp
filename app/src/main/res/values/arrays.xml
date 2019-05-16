@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Historic Places Data -->
+
+    <string-array name="historic_places_names">
+        <item>Pike Place Market</item>
+        <item>Hiram M. Chittenden Locks</item>
+        <item>Pioneer Square</item>
+        <item>Tillicum Indian Village</item>
+
+    </string-array>
+
+    <string-array name="historic_places_addresses">
+        <item>85 Pike Street, Room 500, Seattle, WA 98101</item>
+        <item>3015 NW 54th St Seattle, WA  98107</item>
+        <item>@string/location_info_not_available</item>
+        <item>Blake Island, Port Orchard, WA 98366</item>
+
+    </string-array>
+
+    <string-array name="historic_places_opening_hours">
+        <item>Hours Vary</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+    </string-array>
+
+    <string-array name="historic_places_phone_numbers">
+        <item>206-682-7453</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>@string/location_phone_number_not_available_text</item>
+    </string-array>
+
+    <string-array name="historic_places_wiki_urls">
+        <item>https://en.wikipedia.org/wiki/Pike_Place_Market</item>
+        <item>https://en.wikipedia.org/wiki/Ballard_Locks</item>
+        <item>https://en.wikipedia.org/wiki/Pioneer_Square,_Seattle</item>
+        <item>https://en.wikipedia.org/wiki/Tillicum_Village</item>
+    </string-array>
+
+    <string-array name="historic_places_images">
+
+        <item>@drawable/pike_place_market</item>
+        <item>@drawable/chittenden_locks</item>
+        <item>@drawable/pioneer_square</item>
+        <item>@drawable/tillicum_village</item>
+    </string-array>
+
+
+    <!-- Hotels Data -->
+
+    <string-array name="hotels_names">
+        <item>Mediterranean Inn</item>
+        <item>The Maxwell Hotel</item>
+        <item>Inn at the Market</item>
+    </string-array>
+
+    <string-array name="hotels_addresses">
+        <item>500-506 Queen Anne Ave N, Seattle, WA 98109</item>
+        <item>155 108TH AVENUE NE, BELLEVUE, WA 98004</item>
+        <item>86 Pine St., Seattle, WA 98101-1571</item>
+    </string-array>
+
+    <string-array name="hotels_phone_numbers">
+        <item>206-428-4700</item>
+        <item>206-286-0629</item>
+        <item>206–443–3600</item>
+    </string-array>
+
+    <string-array name="hotels_images">
+        <item>@drawable/mediterranean_inn</item>
+        <item>@drawable/the_maxwell_hotel</item>
+        <item>@drawable/inn_at_the_market</item>
+    </string-array>
+
+
+    <!-- Food Destinations Data -->
+
+    <string-array name="food_destinations_names">
+        <item>Pizzeria Credo</item>
+        <item>The Pink Door </item>
+        <item>Altura Restaurant</item>
+        <item>Salumi</item>
+    </string-array>
+
+    <string-array name="food_destinations_addresses">
+        <item>4520 California Ave SW, Seattle, WA 98116</item>
+        <item>1919 Post Aly, Seattle, WA 98101</item>
+        <item>617 Broadway E, Seattle, WA 98102</item>
+        <item>404 Occidental Ave S, Seattle, WA 98104</item>
+    </string-array>
+
+    <string-array name="food_destinations_opening_hours">
+        <item>4:30 PM - 10:00 PM</item>
+        <item>11:30 AM - 11:00 PM</item>
+        <item>5:00 PM - 10:00 PM</item>
+        <item>11:00 AM - 3:00 PM</item>
+    </string-array>
+
+    <string-array name="food_destinations_phone_numbers">
+        <item>206-402-3784</item>
+        <item>206-443-3241</item>
+        <item>206-402-6749</item>
+        <item>206-621-8772</item>
+    </string-array>
+
+    <array name="food_destinations_images">
+        <item>@drawable/pizzeria_credo</item>
+        <item>@drawable/the_pink_door</item>
+        <item>@drawable/altura</item>
+        <item>@drawable/salumi</item>
+    </array>
+
+
+    <!-- Activities and Events Data -->
+
+    <string-array name="activities_and_events_names">
+        <item>Bumbershoot</item>
+        <item>Seafair</item>
+        <item>Fremont Solstice Parade</item>
+    </string-array>
+
+    <string-array name="activities_and_events_addresses">
+        <item>Seattle Center, Seattle, WA</item>
+        <item>2200 Sixth Avenue, Suite 400   Seattle, WA 98121</item>
+        <item>3940 Fremont Ave N. Seattle, WA 98103</item>
+    </string-array>
+
+    <string-array name="activities_and_events_opening_hours">
+        <item>Aug 30 – Sep 1, 2019</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>@string/location_phone_number_not_available_text</item>
+    </string-array>
+
+    <string-array name="activities_and_events_phone_numbers">
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>(206) 728-0123</item>
+        <item>@string/location_phone_number_not_available_text</item>
+    </string-array>
+
+    <string-array name="activities_and_events_wiki_urls">
+        <item>https://en.wikipedia.org/wiki/Bumbershoot</item>
+        <item>https://en.wikipedia.org/wiki/Seafair</item>
+        <item>https://en.wikipedia.org/wiki/Fremont_Solstice_Parade</item>
+    </string-array>
+
+    <string-array name="activities_and_events_images">
+        <item>@drawable/bumbershoot</item>
+        <item>@drawable/seafair</item>
+        <item>@drawable/solstice_parade</item>
+    </string-array>
+
+</resources>
